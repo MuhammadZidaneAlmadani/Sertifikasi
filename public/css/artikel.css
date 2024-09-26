@@ -1,0 +1,46 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.artikel-content h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.artikel-content .author {
+    font-style: italic;
+    color: #888;
+    margin-bottom: 20px;
+}
+
+.artikel-content .artikel-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.artikel-content p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.artikel-content .footer-note {
+    text-align: center;
+    font-size: 1em;
+    margin-top: 30px;
+    color: #333;
+}
